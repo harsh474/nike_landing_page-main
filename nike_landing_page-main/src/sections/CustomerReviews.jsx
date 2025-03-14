@@ -2,7 +2,7 @@ import React from 'react'
 
 function CustomerReviews() {
   return (
-    <div>CustomerReviews</div>
+    <div className='hidden'>CustomerReviews</div>
   )
 }
 

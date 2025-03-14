@@ -2,7 +2,7 @@ import React from 'react'
 
 function SuperQuality() {
   return (
-    <div>SuperQuality</div>
+    <div className='hidden'>SuperQuality</div>
   )
 }
 

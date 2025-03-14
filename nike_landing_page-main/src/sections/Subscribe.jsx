@@ -2,7 +2,7 @@ import React from 'react'
 
 function Subscribe() {
   return (
-    <div>Subscribe</div>
+    <div className='hidden'>Subscribe</div>
   )
 }
 

@@ -11,7 +11,7 @@ function Hero() {
   return (
     <section
     id='home'
-    className='w-full flex xl:flex-row flex-col justify-center min-h-screen gap-10 max-container'
+    className='w-full flex  flex-col justify-center min-h-screen gap-10 max-container'
   >
       <div className="left w-1/2 relative pt-[120px] max-container sm:w-5/6">
         <p className='text-red-400 font-montserrat  text-[20px] leading-[24.83px] width-[244.167px] pt-3'>Our Summer collections</p>
